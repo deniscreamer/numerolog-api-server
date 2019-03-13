@@ -12,23 +12,23 @@ html(lang='ru')
           th Консультация
           th #{select}
         tr
-          td ФИО
+          td ФИО Ребёнка
           td #{fio}
         tr
-          td Дата рождения
+          td Дата рождения ребёнка
           td #{birth_date} #{birth_time}
         tr
-          td ФИО Партнера
-          td #{fio_partner}
+          td ФИО Мамы
+          td #{fio_parent_one}
         tr
-          td Дата рождения Партнера
-          td #{birth_date_partner} #{birth_time_partner}
+          td Дата рождения Мамы
+          td #{birth_date_parent_one} #{birth_time_parent_one}
         tr
-          td Женаты
-          if birth_date
-            td Да
-          else
-            td Нет
+          td ФИО Папы
+          td #{fio_parent_two}
+        tr
+          td Дата рождения Папы
+          td #{birth_date_parent_two} #{birth_time_parent_two}
         tr
           td Контакты
           td #{contacts}
@@ -36,4 +36,3 @@ html(lang='ru')
           tr
             td Когда записаны
             td #{dateread} #{timeat} - #{timeto}
-
