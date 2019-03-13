@@ -1,7 +1,7 @@
 ## Description
 
-That's API for the application https://github.com/densch1/numerolog-frontend
-The API has routes with Basic Authorization for security.
+ - That's API for the application https://github.com/densch1/numerolog-frontend
+ - The API has routes with Basic Authorization for security.
 
 ## Technologies
 
@@ -15,7 +15,7 @@ The API has routes with Basic Authorization for security.
  - Express
  - Email Templates
  - Nodemailer
- - Moment
+ - MomentJS
  - Passport
  - Request
 
