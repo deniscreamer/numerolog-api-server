@@ -1,0 +1,32 @@
+{
+  "name": "custom-json-server",
+  "version": "1.0.0",
+  "description": "Custom json-server",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "email-templates": "^5.0.4",
+    "json-server": "^0.12.1",
+    "moment": "^2.24.0",
+    "nodemailer": "^5.1.1",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "pug": "^2.0.3",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "express-list-endpoints": "^4.0.0",
+    "json-server": "^0.14.2"
+  },
+  "scripts": {
+    "serve": "node server.js --watch ./json/db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "api"
+  ],
+  "author": "M. Dresdner",
+  "license": "MIT"
+}

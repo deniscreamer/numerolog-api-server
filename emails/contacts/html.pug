@@ -1,0 +1,23 @@
+doctype html
+html(lang='ru')
+  head
+    style
+      include style.css
+  body
+    table.table_col
+      colgroup
+        col(style='background:#C7DAF0;')
+      tbody
+        tr
+          th Вопрос
+          th на сайте
+        tr
+          td Имя
+          td #{username}
+        tr
+          td e-mail
+          td #{email}
+        tr
+          td Вопрос
+          td #{question}
+

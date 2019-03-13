@@ -1,0 +1,47 @@
+doctype html
+html(lang='ru')
+  head
+    style
+      include style.css
+  body
+    table.table_col
+      colgroup
+        col(style='background:#C7DAF0;')
+      tbody
+        tr
+          th Консультация
+          th #{select}
+        tr
+          td ФИО
+          td #{fio}
+        if fio_chbox
+          tr
+            td Настоящая Фамилия
+            td #{fio_now}
+          tr
+            td Взяла у мужа?
+            if fio_chbox_husband_chbox
+              td Да
+            else
+              td Нет
+        tr
+          td Дата рождения (паспорт)
+          td #{birth_date} #{birth_time}
+        if birth_chbox
+          tr
+            td Реальная дата рождения
+            td #{birth_chbox_realdate} #{birth_chbox_realtime}
+        tr
+          td Место рождения
+          td #{from_city}
+        if clinic_die_chbox
+          tr
+            td Клинич смерть
+            td #{clinic_die_date}
+        tr
+          td Контакты
+          td #{contacts}
+        if date
+          tr
+            td Когда записаны
+            td #{dateread} #{timeat} - #{timeto}

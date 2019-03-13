@@ -1,0 +1,39 @@
+doctype html
+html(lang='ru')
+  head
+    style
+      include style.css
+  body
+    table.table_col
+      colgroup
+        col(style='background:#C7DAF0;')
+      tbody
+        tr
+          th Консультация
+          th #{select}
+        tr
+          td ФИО
+          td #{fio}
+        tr
+          td Дата рождения
+          td #{birth_date} #{birth_time}
+        tr
+          td ФИО Партнера
+          td #{fio_partner}
+        tr
+          td Дата рождения Партнера
+          td #{birth_date_partner} #{birth_time_partner}
+        tr
+          td Женаты
+          if birth_date
+            td Да
+          else
+            td Нет
+        tr
+          td Контакты
+          td #{contacts}
+        if date
+          tr
+            td Когда записаны
+            td #{dateread} #{timeat} - #{timeto}
+

@@ -1,0 +1,861 @@
+{
+  "home": {
+    "title": "Нумерологический прогноз - Нумеролог Валерия",
+    "name": "Нумеролог Валерия",
+    "quote": "Меняю жизнь к лучшему",
+    "button": "Записаться"
+  },
+  "about": {
+    "profession": "Нумеролог",
+    "about": "Я являюсь магистром Нумерологии. В 2018 окончила Международный центр Нумерологии «Альвасар». Практикую более 3-х лет. Имею довольных клиентов со всех уголков России, СНГ и мира. Помогу Вам и Вашей семье быть счастливыми. Подскажу Ваше призвание в жизни. Расскажу про Ваши таланты. Объясню, что Вам необходимо сделать для финансового благополучия. Проконсультирую Вас без «воды» и «мусора» – всё по делу. Разложу всю эту информацию «по полочкам». Итак, если Вы готовы изменить свою жизнь и жизнь Ваших близких к лучшему, записывайтесь ко мне на консультацию.",
+    "src": "assets/about-2.jpg"
+  },
+  "quote": {
+    "quote": "Если ты не решишься на это сегодня, завтра будет таким же, как и вчера."
+  },
+  "consultations": {
+    "title": "Консультации",
+    "consultations": [
+      {
+        "title": "Предназначение",
+        "img": "consultation_1.jpg",
+        "animation": "wow slideInLeft",
+        "itemsDescription": [
+          {
+            "title": "Талант",
+            "description": "Расскажу про Ваш характер, талант и то, что мешает ему проявиться"
+          },
+          {
+            "title": "Предназначение",
+            "description": "Ваше предназначение в жизни, подходящая профессия, цели в жизни"
+          },
+          {
+            "title": "Задачи",
+            "description": "Задачи рода, воплощения, метациклов"
+          },
+          {
+            "title": "Грубые ошибки",
+            "description": "Ошибки которые нельзя допускать, чтобы в жизни всё получалось"
+          }
+        ],
+        "typesContact": [
+          {
+            "title": "Скайп",
+            "ico": "fab fa-skype",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Звонок",
+            "ico": "fab fa-whatsapp",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Текстовая",
+            "ico": "far fa-file-alt",
+            "price": "1500 ₽"
+          }
+        ],
+        "time": "1 час"
+      },
+      {
+        "title": "Взаимоотношения",
+        "img": "consultation_2.jpg",
+        "animation": "wow slideInUp",
+        "itemsDescription": [
+          {
+            "title": "Цель партнёрства",
+            "description": "Цели партнеров, для чего пара вместе"
+          },
+          {
+            "title": "Эмоции",
+            "description": "Что чувствуют партнеры друг к другу"
+          },
+          {
+            "title": "Конфликты",
+            "description": "Причины конфликтов и рекомендации по их преодолению"
+          },
+          {
+            "title": "Задачи",
+            "description": "Задачи друг перед другом в этих отношениях и в обществе"
+          }
+        ],
+        "typesContact": [
+          {
+            "title": "Скайп",
+            "ico": "fab fa-skype",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Звонок",
+            "ico": "fab fa-whatsapp",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Текстовая",
+            "ico": "far fa-file-alt",
+            "price": "1500 ₽"
+          }
+        ],
+        "time": "1 час"
+      },
+      {
+        "title": "Счастливый ребёнок",
+        "img": "consultation_3.jpg",
+        "animation": "wow slideInRight",
+        "itemsDescription": [
+          {
+            "title": "Талант",
+            "description": "Характер и талант ребёнка"
+          },
+          {
+            "title": "Предназначение",
+            "description": "Предназначение, цели и задачи в жизни"
+          },
+          {
+            "title": "Отношения в семье",
+            "description": "Взаимоотношения с родителями. Какой подход необходим"
+          },
+          {
+            "title": "Кружки ВУЗы",
+            "description": "Советы по кружкам, секциям, ВУЗам"
+          }
+        ],
+        "typesContact": [
+          {
+            "title": "Скайп",
+            "ico": "fab fa-skype",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Звонок",
+            "ico": "fab fa-whatsapp",
+            "price": "1000 ₽"
+          },
+          {
+            "title": "Текстовая",
+            "ico": "far fa-file-alt",
+            "price": "1500 ₽"
+          }
+        ],
+        "time": "1 час"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Подбор Вашего камня",
+      "description": "Я подберу для Вас подходящий камень",
+      "ico": "fas fa-gem",
+      "color": "blue",
+      "price": "500 ₽"
+    },
+    {
+      "title": "Рецепт Ваших масел",
+      "description": "Я подберу для Вас подходящие масла",
+      "ico": "fas fa-spa",
+      "color": "pink",
+      "price": "500 ₽"
+    },
+    {
+      "title": "Расписание циклов",
+      "description": "Я просчитаю Вам на полный год Ваши самые удачные и неудачные циклы в жизни",
+      "ico": "fas fa-calendar-alt",
+      "color": "indigo",
+      "price": "500 ₽"
+    },
+    {
+      "title": "Расчет названия фирмы",
+      "description": "Я расчитаю для Вас самое удачное название. Например, название для Фирмы, компании, салона, магазина и т.д.",
+      "ico": "fab fa-black-tie",
+      "color": "deep-orange",
+      "price": "500 ₽"
+    }
+  ],
+  "daytable": [
+    {
+      "id": 1,
+      "date": "2019-03-05T19:17:48+03:00",
+      "weekday": "вторник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": false
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": false
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": true
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": true
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": true
+        }
+      ]
+    },
+    {
+      "date": "2019-03-06T19:17:48+03:00",
+      "weekday": "среда",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": true
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": true
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": true
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": true
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": true
+        }
+      ],
+      "id": 2
+    },
+    {
+      "date": "2019-03-07T19:17:48+03:00",
+      "weekday": "четверг",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": true
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": true
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": true
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": true
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": true
+        }
+      ],
+      "id": 3
+    },
+    {
+      "date": "2019-03-08T19:17:48+03:00",
+      "weekday": "пятница",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "date": "2019-03-11T19:17:48+03:00",
+      "weekday": "понедельник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": true
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": false
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": false
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "date": "2019-03-12T19:17:48+03:00",
+      "weekday": "вторник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": true
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": false
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "date": "2019-03-13T19:17:48+03:00",
+      "weekday": "среда",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "date": "2019-03-14T19:17:48+03:00",
+      "weekday": "четверг",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "date": "2019-03-15T19:17:48+03:00",
+      "weekday": "пятница",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "date": "2019-03-18T19:17:48+03:00",
+      "weekday": "понедельник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "date": "2019-03-19T19:17:48+03:00",
+      "weekday": "вторник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "date": "2019-03-20T19:17:48+03:00",
+      "weekday": "среда",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "date": "2019-03-21T18:17:48+02:00",
+      "weekday": "четверг",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "date": "2019-03-22T18:17:48+02:00",
+      "weekday": "пятница",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "date": "2019-03-25T18:17:48+02:00",
+      "weekday": "понедельник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "date": "2019-03-26T18:17:48+02:00",
+      "weekday": "вторник",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "date": "2019-03-27T18:17:48+02:00",
+      "weekday": "среда",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "date": "2019-03-28T18:17:48+02:00",
+      "weekday": "четверг",
+      "times": [
+        {
+          "time_at": "11:00",
+          "time_to": "12:00",
+          "free": "true"
+        },
+        {
+          "time_at": "14:00",
+          "time_to": "15:00",
+          "free": "false"
+        },
+        {
+          "time_at": "15:00",
+          "time_to": "16:00",
+          "free": "true"
+        },
+        {
+          "time_at": "17:00",
+          "time_to": "18:00",
+          "free": "true"
+        },
+        {
+          "time_at": "19:00",
+          "time_to": "20:00",
+          "free": "true"
+        }
+      ],
+      "id": 18
+    }
+  ],
+  "templateDayTable": {
+    "date": "2019-02-23T19:17:48+03:00",
+    "weekday": "Понедельник",
+    "times": [
+      {
+        "time_at": "11:00",
+        "time_to": "12:00",
+        "free": true
+      },
+      {
+        "time_at": "14:00",
+        "time_to": "15:00",
+        "free": false
+      },
+      {
+        "time_at": "15:00",
+        "time_to": "16:00",
+        "free": true
+      },
+      {
+        "time_at": "17:00",
+        "time_to": "18:00",
+        "free": true
+      },
+      {
+        "time_at": "19:00",
+        "time_to": "20:00",
+        "free": true
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Какие у вас есть консультации?",
+      "answer": "Консультации Вы можете посмотреть на сайте. Всего их 3. Предназначения, счастливый ребёнок, взаимоотношения. Так же есть услуги «расписание жизненных циклов» «подбор камней» «подбор эфирных масел»"
+    },
+    {
+      "question": "Сколько стоит?",
+      "answer": "Цена, пока что, 1000 рублей. Длительность 1 час."
+    },
+    {
+      "question": "Консультации только по скайпу?",
+      "answer": "Чаще мои консультации проходят по Whatsapp, но и по скайпу тоже возможно. По вашему желанию."
+    },
+    {
+      "question": "Обязательно видео связь?",
+      "answer": "Мне не обязательно Вас видеть. По Вашему желанию."
+    },
+    {
+      "question": "Как записаться?",
+      "answer": "На сайте перейдите в Онлайн Запись, выберете время и нажмите на него. Далее заполните анкету и оплатите. Либо просто напиште мне в любой соц. сети"
+    },
+    {
+      "question": "Есть возможность заказать текстовую консультацию?",
+      "answer": "Да, у меня есть такая услуга. Стоит 1500р."
+    },
+    {
+      "question": "Где вы учились?",
+      "answer": "Я прошла обучение в школе Альвасар. Сертификаты имеются."
+    },
+    {
+      "question": "Можно ли узнать дату смерти?",
+      "answer": "У меня - нет. Может кто-то может, но я не решусь такое смотреть."
+    }
+  ],
+  "feedbacks": [
+    {
+      "src": "feedback_1.jpg"
+    },
+    {
+      "src": "feedback_2.jpg"
+    },
+    {
+      "src": "feedback_5.jpg"
+    },
+    {
+      "src": "feedback_6.png"
+    },
+    {
+      "src": "feedback_7.jpg"
+    },
+    {
+      "src": "feedback_8.jpg"
+    },
+    {
+      "src": "feedback_9.jpg"
+    },
+    {
+      "src": "feedback_10.jpg"
+    },
+    {
+      "src": "feedback_11.jpg"
+    }
+  ],
+  "contacts": {
+    "instagram": {
+      "name": "@numerolog_valeria",
+      "src": "https://instagram.com/numerolog_valeria"
+    },
+    "whatsapp": {
+      "name": "+7 (938) 485-08-85",
+      "src": "https://api.whatsapp.com/send?phone=79384850885"
+    },
+    "email": "numerolog_valeria@mail.ru"
+  },
+  "questions": [
+  ],
+  "orders": [
+  ]
+}
