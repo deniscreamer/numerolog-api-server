@@ -29,10 +29,12 @@ async function main() {
 
   let newDate = moment(dayTables[dayTables.length - 1].date);
 
-  do {
+  /* do {
     newDate = newDate.add('1', 'days');
-  } while (newDate.weekday() > 4); // only not weekend
+  } while (newDate.weekday() > 4); // only not weekend */
 
+  newDate = newDate.add('1', 'days'); // all days on week
+  
   templateDayTable.date = newDate.format();
   templateDayTable.weekday = newDate.format('dddd');
 
